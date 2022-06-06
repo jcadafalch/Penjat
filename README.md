@@ -12,6 +12,6 @@ Includes ranking with points system, ideal for the most competitive users.
 - Firebase Authentication
 - Firebase Firestore
 
----
+###[Click here to download the apk](https://drive.google.com/file/d/1nFK63V8lDeG_GPtGxMLnTzdSGNVLXHB_/view?usp=sharing)
 
 ![Game Screenshot](PenjatScreenshot.jpg)
