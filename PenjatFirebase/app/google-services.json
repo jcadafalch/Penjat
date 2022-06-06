@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "295534193170",
+    "project_id": "penjat-e5da8",
+    "storage_bucket": "penjat-e5da8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:295534193170:android:9da17d9a76a02a497cc6cb",
+        "android_client_info": {
+          "package_name": "cat.copernic.jcadafalch.penjatfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "295534193170-edtaa6dmp2hitoj7m3stn9uvh2m432mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbaxk2Sw5MRK6QnFDbrOq4IICaIXo6_1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "295534193170-edtaa6dmp2hitoj7m3stn9uvh2m432mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

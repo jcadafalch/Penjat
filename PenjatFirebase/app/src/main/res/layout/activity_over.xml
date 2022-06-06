@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FB8077"
+    tools:context=".ui.OverActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/perdutText"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/has_perdut"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="50sp" />
+
+        <TextView
+            android:id="@+id/usernameOverText"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:text="@string/username"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="50sp" />
+
+        <TextView
+            android:id="@+id/secretWordText"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+            android:textAlignment="center"
+            android:textColor="#000000"
+            android:textSize="30sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="35dp" />
+
+        <ImageView
+            android:id="@+id/penjatImage"
+            android:layout_width="250dp"
+            android:layout_height="250dp"
+            android:layout_gravity="center"
+            android:contentDescription="@string/penjat_imatge"
+            app:srcCompat="@mipmap/penjat6_foreground" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="20dp" />
+
+        <Button
+            android:id="@+id/novaPartidaButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nova_partida"
+            android:textSize="20sp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="15dp" />
+
+        <Button
+            android:id="@+id/logOutButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/colorAccent"
+            android:text="@string/tancar_sessio"
+            android:textSize="20sp"
+            tools:ignore="TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/changedataTxt4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/drawable/ic_bandera_de_espa_a.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/drawable/ic_flag_of_the_united_kingdom__3_5_.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/drawable/ranking.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/layout/activity_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/layout/activity_ranking.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/layout/activity_recupera_partida.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/layout/card_layout.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/Penjat/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2638888888888889" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/drawable/ic_bandera_de_espa_a.xml" value="0.240625" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/drawable/ic_baseline_logout_24.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/drawable/ic_launcher_logOut_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_auth.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_home.xml" value="0.4" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_over.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_ranking.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_recupera_partida.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_recuperar_contrasenya.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_registre.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_win.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/activity_won.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/card_layout.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/fragment_first.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/fragment_inici_sessio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/layout/fragment_registre.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/menu/menu.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat0.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat0_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat1.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat1_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat2.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat2_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat3.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat4.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat4_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat5.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/penjat6.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/ranking.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/mipmap-anydpi-v26/ranking_round.xml" value="0.1" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/AndroidStudio/PenjatFirebase/app/src/main/res/xml/provider_paths.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/PenjatFirebase/app/src/main/res/layout/activity_auth.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/PenjatFirebase/app/src/main/res/layout/activity_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/PenjatFirebase/app/src/main/res/layout/activity_main.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/PenjatFirebase/app/src/main/res/layout/fragment_inici_sessio.xml" value="0.264" />
+        <entry key="..\:/Users/User/Documents/GitHub/FCT-HCB/PenjatFirebase/app/src/main/res/layout/fragment_registre.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/User/Documents/GitHub/Penjat/PenjatFirebase/app/src/main/res/layout/activity_auth.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/User/Documents/GitHub/Penjat/PenjatFirebase/app/src/main/res/layout/activity_home.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

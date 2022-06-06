@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorFons"
+    tools:context=".ui.RecuperaPartida">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <TextView
+            android:id="@+id/textViewPIniciada"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:text="@string/tens_una_partida_iniciada"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="34sp"
+            tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="25dp" />
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:text="@string/que_vols_fer"
+            android:textAlignment="center"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <Button
+            android:id="@+id/recuperaPartidabutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/recuperar_partida"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="50dp" />
+
+        <Button
+            android:id="@+id/novaPartidabutton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/nova_partida"
+            android:textSize="14sp"
+            tools:ignore="TextContrastCheck,TextContrastCheck" />
+
+        <TextView
+            android:id="@+id/changedataTxt2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="invisible" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
